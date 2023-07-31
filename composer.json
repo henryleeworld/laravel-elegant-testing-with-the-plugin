@@ -16,11 +16,11 @@
     "require-dev": {
         "fakerphp/faker": "^1.23.0",
         "laravel/pint": "^1.10",
-        "laravel/sail": "^1.22",
+        "laravel/sail": "^1.23",
         "lukeraymonddowning/pest-plugin-larastrap": "^0.3",
         "mockery/mockery": "^1.6.2",
-        "nunomaduro/collision": "^7.5",
-        "pestphp/pest": "^2.6",
+        "nunomaduro/collision": "^7.6",
+        "pestphp/pest": "^2.8",
         "pestphp/pest-plugin-laravel": "^2.0",
         "phpunit/phpunit": "^10.2",
         "spatie/laravel-ignition": "^2.1"
