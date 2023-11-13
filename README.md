@@ -20,6 +20,14 @@ $ php artisan key:generate
 ```sh
 $ php artisan migrate
 ```
+- 執行安裝 Vite 和 Laravel 擴充套件引用的依賴項目。
+```sh
+$ npm install
+```
+- 執行正式環境版本化資源管道並編譯。
+```sh
+$ npm run build
+```
 - 執行 __Artisan__ 指令的 __test__ 來執行測試。
 ```sh
 $ php artisan test
@@ -28,5 +36,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/zcVyjmw.png)
+![](https://i.imgur.com/VvGO3aa.png)
 > 將不需認證的路由進行 HTTP 請求功能測試
