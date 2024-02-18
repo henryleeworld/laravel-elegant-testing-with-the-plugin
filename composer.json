@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.8",
-        "laravel/framework": "^10.25",
+        "laravel/framework": "^10.31",
         "laravel/jetstream": "^4.0",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
@@ -16,11 +16,11 @@
     "require-dev": {
         "fakerphp/faker": "^1.23.0",
         "laravel/pint": "^1.13",
-        "laravel/sail": "^1.25",
+        "laravel/sail": "^1.26",
         "lukeraymonddowning/pest-plugin-larastrap": "^0.3",
         "mockery/mockery": "^1.6.6",
-        "nunomaduro/collision": "^7.9",
-        "pestphp/pest": "^2.0",
+        "nunomaduro/collision": "^7.10",
+        "pestphp/pest": "^2.24",
         "pestphp/pest-plugin-laravel": "^2.0",
         "spatie/laravel-ignition": "^2.3"
     },
