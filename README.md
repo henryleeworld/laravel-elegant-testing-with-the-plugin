@@ -1,4 +1,4 @@
-# Laravel 10 使用插件進行優雅測試
+# Laravel 11 使用插件進行優雅測試
 
 引入 lukeraymonddowning 的 pest-plugin-larastrap 套件來擴增使用插件進行優雅測試，解決在 Pest 編譯階段還沒有啟動 Laravel 而發生古怪的狀況。
 
@@ -36,5 +36,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/VvGO3aa.png)
+![](https://i.imgur.com/PbTMdkR.png)
 > 將不需認證的路由進行 HTTP 請求功能測試
