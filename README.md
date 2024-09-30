@@ -36,5 +36,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/PbTMdkR.png)
+![](https://i.imgur.com/oTWurgO.png)
 > 將不需認證的路由進行 HTTP 請求功能測試
